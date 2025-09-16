@@ -19,5 +19,5 @@ print("Hello World")
 ```
 [可愛的小花](https://www.youtube.com/watch?v=nC-bVtpIMd4)
 <https://www.youtube.com/watch?v=nC-bVtpIMd4>
-![可愛的小花](https://i1.sndcdn.com/artworks-ExoDQmY9GMYFPqNW-088uEA-t500x500.jpg)
+![可愛的小花](https://i.ytimg.com/vi/lS2Pqip1dpg/mqdefault.jpg)
 # 專案文件範例
