@@ -13,7 +13,7 @@ Markdown 語法教學與實作
 * 3
 123.
 > 123
->>> 123
+>> 123
 ```python
 print("Hello World")
 ```
