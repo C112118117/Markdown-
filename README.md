@@ -22,9 +22,9 @@ print("Hello World")
 [可愛的小花](https://www.youtube.com/watch?v=nC-bVtpIMd4)
 <https://www.youtube.com/watch?v=nC-bVtpIMd4>
 ![可愛的小花](https://i.ytimg.com/vi/lS2Pqip1dpg/mqdefault.jpg)
-
-| A1 | B1 |
-| A2 | B2 |
+|:---:| |:---:|
+| 班級 | 姓名 |
+| 資管3甲 | 李家丞 |
 
 |:123|:123:|123:|
 # 專案文件範例
